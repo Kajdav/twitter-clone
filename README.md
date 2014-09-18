@@ -44,3 +44,6 @@ Use this repo as the starting point for the Twitter clone project:
 * $(‘idOrClass’).find()
 * $(‘idOrClass’).show() // .hide();
 * $(this).toggleClass(‘className’);
+
+
+problems: hover/click on all of my tweets; also, they all break when I create a new tweet.
